@@ -76,9 +76,7 @@ Each process (S1, S2, S3, S4, client) should run in a separate terminal or machi
 - Directory creation is handled if non-existent during file upload.
 - Files are deleted from S1 after transfer (except `.c` files).
 
-## 👥 Contributors
 
-- Javith Hussain Shareef
 
 ---
 
